@@ -1,0 +1,2049 @@
+﻿side_effect_name,side_effect_code
+Wound,C1264517
+Computerised Tomogram,C0853557
+Oedema,C0856110
+Lung Cancer Metastatic,C0278987
+Bartholin'S Abscess,C0403848
+Anaemia Of Chronic Disease,C0002873
+Shock Haemorrhagic,C0036982
+Joint Arthroplasty,C0003893
+Abdominal Distension,C0012359
+Wound Treatment,C1328346
+Hypovolaemic Shock,C1869066
+Operative Haemorrhage,C0032788
+Chills,C0424790
+Mitral Valve Calcification,C0919718
+Diabetic Gastroparesis,C0267176
+Appetite Disorder,C0003621
+Overweight,C0497406
+Somnolence,C2830004
+Cytolytic Hepatitis,C0919823
+Anorectal Discomfort,C2242737
+Erectile Dysfunction,C0948238
+Acetonaemia,C0235430
+Blood Creatinine Increased,C0235431
+Chronic Fatigue Syndrome,C0015674
+Ejaculation Failure,C0278106
+Electrocardiogram St-T Change,C0919620
+Intervertebral Disc Degeneration,C0158266
+Pedal Pulse Abnormal,C0232159
+Metatarsalgia,C0311337
+Staphylococcal Abscess,C0853856
+Blood Cholesterol Abnormal,C0853595
+Blood Triglycerides Increased,C0853692
+Monoparesis,C0270795
+Dysphoria,C0233477
+Infestation,C0851341
+Congenital Mitral Valve Incompetence,C0158619
+Gastrointestinal Disorder,C0426576
+Disorder Of Globe,C0015397
+Laparoscopy,C0031150
+Cerebral Arteriosclerosis,C0877854
+Anxiety Disorder,C0236748
+Blood Glucose Abnormal,C0948681
+Pedal Pulse Absent,C1704204
+Impaired Insulin Secretion,C0948379
+Angina Unstable,C0002965
+Narcotic Intoxication,C1095927
+Csf Neutrophil Count Increased,C1096497
+Acquired Macroglossia,C0341025
+Infantile Spasms,C1869075
+Fatty Liver Alcoholic,C0015696
+Joint Instability,C0022410
+Perirenal Haematoma,C0473124
+Feeling Guilty,C0877289
+Blood Pressure Systolic Increased,C0277884
+Dupuytren'S Contracture,C0852756
+Blood Phosphorus Increased,C0919625
+Productive Cough,C0239134
+Breast Cancer Stage I,C1328548
+Bladder Spasm,C0426390
+Injection Site Induration,C0521509
+Agitation,C0233571
+Lumbar Vertebral Fracture,C0262544
+Acquired Diaphragmatic Eventration,C1167683
+Electrocardiogram T Wave Abnormal,C0438167
+Expired Drug Administered,C1740800
+Hypophagia,C1504561
+Pupillary Reflex Impaired,C0235802
+Bronchial Infection,C0340238
+Hepatic Artery Thrombosis,C0392106
+Rash,C0302295
+Hepatotoxicity,C0235378
+Skin Tightness,C0241166
+Blood Cholesterol Increased,C1522133
+Hip Surgery,C0596706
+Joint Range Of Motion Decreased,C0877027
+Influenza,C0948873
+Urethral Dilatation,C1457917
+Ejection Fraction Decreased,C1096403
+Diabetes Mellitus,C0241863
+Blood Iron Decreased,C0853785
+Posture Abnormal,C1536116
+Metastatic Neoplasm,C1142474
+Joint Injury,C0409497
+Blood Urea Increased,C0151539
+Catheterisation Cardiac,C0740321
+Renal Impairment,C0151746
+Vitamin B12 Decreased,C0241697
+Stent Placement,C0522776
+Hypocoagulable State,C0235601
+Increased Appetite,C0232461
+Hyperventilation,C1168267
+Hyporeflexia,C0151888
+Product Substitution Issue,C2609413
+Dysstasia,C0241237
+Bowel Movement Irregularity,C1504373
+Peau D'Orange,C0425791
+Pulmonary Calcification,C0264523
+Multiple Drug Overdose,C1328320
+Arthralgia,C0857177
+Tooth Fracture,C0040441
+Circumstance Or Information Capable Of Leading To Medication Error,C1536020
+Oral Mucosal Hypertrophy,C1328351
+Rhythm Idioventricular,C0700363
+Premature Baby,C0021294
+Small For Dates Baby,C0021296
+Obstructive Chronic Bronchitis With Acute Exacerbation,C0155876
+Kyphosis,C0854295
+Spinal Fusion Acquired,C0919700
+Gingival Oedema,C0277986
+Biopsy Gingival,C1610623
+Dental Operation,C0204324
+Device Related Infection,C1619702
+Hellp Syndrome,C0162739
+Rales,C0858640
+Venous Stasis,C0277919
+Renal Vein Thrombosis,C0238457
+Paraesthesia,C2242996
+Central Venous Catheter Removal,C1868802
+Csf Lymphocyte Count Increased,C0855356
+Mixed Hyperlipidaemia,C0020474
+Primary Sequestrum,C0333313
+Pericardial Haemorrhage,C0019064
+Anoxic Encephalopathy,C0003132
+Lichenification,C0023654
+Neutropenic Sepsis,C0877153
+Paraproteinaemia,C0029698
+Lacrimation Increased,C0152227
+Livedo Reticularis,C0085642
+Foetal Distress Syndrome,C0015930
+Biopsy Skin,C0853474
+Skin Odour Abnormal,C0234930
+Medical Device Complication,C1112353
+Musculoskeletal Discomfort,C0948594
+Acquired Porphyria,C0948592
+Cranial Nerve Disorder,C0851453
+Caecum Operation,C0192818
+Colon Operation,C0192817
+Klebsiella Infection,C0022729
+Hysterotomy,C0020711
+Skin Neoplasm Excision,C1112615
+Erb'S Palsy,C0270897
+Multiple Injuries,C0026771
+Biliary Dilatation,C0842860
+Vulvovaginal Candidiasis,C0700345
+Extrapyramidal Disorder,C0015371
+Oesophageal Food Impaction,C1695984
+Right Atrial Dilatation,C0344709
+Central Line Infection,C1096243
+Hyperbaric Oxygen Therapy,C0020431
+Neutrophil Count Abnormal,C0580316
+Leg Amputation,C0187830
+Incision Site Infection,C1698397
+Abdominal Infection,C0001263
+Deafness Bilateral,C0581883
+Knee Arthroplasty,C0845666
+Neuropathic Pain,C1963916
+Jugular Vein Distension,C1167958
+Gallbladder Cholesterolosis,C0152456
+Hepatitis Alcoholic,C0019187
+Biopsy Lymph Gland Abnormal,C0852766
+Pancreatic Enzymes Increased,C0549369
+Feelings Of Worthlessness,C0855235
+Incoherent,C0542044
+Haematochezia,C1321898
+Pco2 Decreased,C0858342
+Blood Electrolytes Abnormal,C0853748
+Pneumocystis Jiroveci Pneumonia,C1535939
+Insulin Resistant Diabetes,C0854110
+Arthropod Bite,C0853348
+Open Angle Glaucoma,C0017612
+Angiomyolipoma,C0206633
+Binge Eating,C0596170
+Increased Upper Airway Secretion,C1328308
+Muscle Injury,C0410256
+Procedural Hypotension,C1262109
+Normochromic Normocytic Anaemia,C0271899
+Aortic Aneurysm Rupture,C0741160
+Tooth Injury,C0242891
+Diabetic Gastroenteropathy,C1112275
+Exercise Test Abnormal,C0853049
+Tumour Necrosis,C0333516
+Type I Hypersensitivity,C0020523
+Elder Abuse,C0013772
+Device Breakage,C0853959
+Splenic Vein Thrombosis,C0272416
+Febrile Neutropenia,C0746883
+Spinal Cord Compression,C0037926
+Clavicle Fracture,C0159658
+Reflux Laryngitis,C2242532
+Hodgkin'S Disease,C0153767
+Histiocytosis Haematophagic,C0876991
+Coagulation Test Abnormal,C1504379
+Incision Site Cellulitis,C1535940
+Arthrodesis,C0188661
+Joint Crepitation,C0231592
+Radiotherapy,C0948322
+Central Venous Catheterisation,C0007435
+Hypoproteinaemia,C0020639
+Colorectal Cancer,C0009402
+Endothelial Dysfunction,C0856169
+Enterococcal Bacteraemia,C0854504
+Lip Haemorrhage,C0849835
+Irritability,C0022107
+Hypokinesia,C1142288
+Pericardial Rub,C0232267
+Medical Device Removal,C0948549
+Lip Discolouration,C0854373
+No Therapeutic Response,C0948605
+Breast Cancer,C0006142
+Hypotonia,C0026827
+Euphoric Mood,C0235146
+Blood Creatinine Increased,C0151578
+Eye Naevus,C0919866
+Wrong Drug Administered,C0549487
+Vaginal Ulceration,C0566951
+Antisocial Behaviour,C0233523
+Type Iv Hypersensitivity Reaction,C0020522
+Delusion,C0011253
+Troponin I Increased,C1141949
+Colon Adenoma,C0850572
+Prothrombin Level Decreased,C0553732
+Oesophagitis Ulcerative,C0267075
+Foot Fracture,C0272774
+Dyskinesia,C0152115
+Application Site Burn,C0877661
+Physical Disability,C0520817
+Renal Ischaemia,C0920646
+Electrocardiogram St Segment Elevation,C0520886
+Blood Immunoglobulin A,C0853329
+Injection Site Burning,C0521503
+Injury,C0043251
+Spinal Laminectomy,C0022983
+Mitral Valve Sclerosis,C0948074
+Mania,C0338831
+Gallbladder Enlargement,C0577066
+Skin Hypertrophy,C0151717
+Bladder Catheterisation,C0852247
+Pulmonary Function Test Abnormal,C0476405
+Ear Infection,C0029877
+Oropharyngeal Blistering,C2242576
+Compulsive Shopping,C2242575
+Alcohol Intolerance,C0151474
+Disturbance In Attention,C1869070
+Dental Discomfort,C1096257
+Fulguration,C0013804
+Hepatic Neoplasm Malignant Non-Resectable,C0854793
+Peroneal Nerve Palsy,C0919573
+Vesical Fistula,C0868852
+Skin Ulcer,C0023223
+Urine Odour Abnormal,C0278045
+Lividity,C0332579
+Muscle Fibrosis,C0877009
+Conduction Disorder,C0264886
+Internal Fixation Of Fracture,C0016642
+Abscess Intestinal,C0156185
+Contraindication To Medical Treatment,C0852648
+Klebsiella Sepsis,C0745528
+Benign Tumour Excision,C1293110
+Metastases To Pleura,C0153678
+Raynaud'S Phenomenon,C0235492
+Balance Disorder,C0427108
+Toxic Epidermal Necrolysis,C0151626
+Purine Metabolism Disorder,C0268104
+Sepsis Syndrome,C0242966
+Reticulocytosis,C0206160
+Intestinal Fistula,C0919879
+Myopericarditis,C1112564
+Atrial Thrombosis,C0340517
+Polyneuropathy In Malignant Disease,C0270932
+Cholesterosis,C0333577
+Asphyxia,C0235536
+Respiratory Failure,C0035229
+Scleroderma,C0011644
+Bilirubin Conjugated Abnormal,C1963819
+Retinal Pigment Epithelial Tear,C1328519
+Glomerulonephritis Minimal Lesion,C1704320
+Gastrointestinal Necrosis,C0852020
+Respiratory Tract Oedema,C2939062
+Intestinal Mucosal Hypertrophy,C0948086
+Feeling Cold,C0812387
+Application Site Vesicles,C0877097
+Congenital Poikiloderma,C0032339
+Lichenoid Keratosis,C1274594
+Intermittent Claudication,C1456822
+Eye Disorder,C0015393
+Bronchoalveolar Lavage Abnormal,C1328379
+Pancreatic Carcinoma Metastatic,C0854775
+Incorrect Drug Administration Duration,C1536001
+Ruptured Cerebral Aneurysm,C0242084
+Concomitant Disease Progression,C0877011
+Intracranial Venous Sinus Thrombosis,C0338573
+Extremity Necrosis,C1167745
+Arterial Thrombosis Limb,C0264984
+Injury,C3263723
+Deafness Unilateral,C2607947
+Blood Triglycerides Increased,C0813230
+Hypoaesthesia,C0239375
+Hearing Impaired,C0260662
+Arteriovenous Fistula Site Haemorrhage,C1096389
+Lentigo Maligna Stage Unspecified,C0853036
+Influenza Like Illness,C0521839
+Ear Disorder,C0851560
+Decreased Interest,C0424091
+Tunnel Vision,C0234630
+Drug Ineffective,C0919887
+Radius Fracture,C0034628
+Mental Disorder,C0004936
+Secondary Immunodeficiency,C0398795
+Spinal Osteoarthritis,C0949690
+Jaw Operation,C0407713
+Spinal Myelogram,C0026995
+Pulse Pressure Decreased,C0240840
+Transaminases Increased,C0438717
+Large Intestinal Ulcer,C0948374
+Memory Impairment,C0542476
+Memory Impairment,C0233794
+Lymphocele,C0024248
+Pallor,C0235039
+Arterial Bypass Operation,C0852730
+Photosensitivity Reaction,C0349506
+Cervicobrachial Syndrome,C0158281
+Lumbar Spinal Stenosis,C0158288
+Drug Reaction With Eosinophilia And Systemic Symptoms,C0543698
+Blood Thyroid Stimulating Hormone Increased,C0853019
+Hepatic Cancer,C2239176
+Heparin-Induced Thrombocytopenia,C0919799
+Coagulation Factor Deficiency,C0001169
+Ocular Icterus,C1141938
+Oedema Mucosal,C0521481
+Plasmacytoma,C0278619
+Blood Alkaline Phosphatase Increased,C0151849
+Loss Of Libido,C2981158
+Facial Paresis,C0427055
+Drug Interaction,C0687133
+Pco2 Increased,C0858343
+Breast Cancer In Situ,C0861351
+Hepatic Function Abnormal,C0086565
+Fluid Overload,C0546817
+Cardiovascular Disorder,C0852113
+Thoracic Vertebral Fracture,C0920251
+Regurgitation,C2004489
+Nephrogenic Fibrosing Dermopathy,C1619692
+Vertebroplasty,C1303192
+Blood Thyroid Stimulating Hormone,C0853018
+Hypovolaemia,C0546884
+Acute Myocardial Infarction,C0155652
+Cholestatic Liver Injury,C2242582
+Exploratory Operation,C1112230
+Gastrinoma,C0017150
+Renal Impairment,C0341697
+Lupus Pneumonitis,C1112402
+Dystrophic Calcification,C0333582
+Ludwig Angina,C0024081
+Dilatation Ventricular,C0264733
+Electrocardiogram Pr Prolongation,C0600125
+Unevaluable Event,C1262119
+Neutralising Antibodies,C1608411
+Encephalitis Post Measles,C0153048
+Bone Disorder,C0852091
+Complications Of Transplanted Kidney,C1261281
+Iliac Artery Stenosis,C0729847
+Respiratory Rate Increased,C0231835
+Lordosis,C0948722
+Electromechanical Dissociation,C0340861
+Hypoaesthesia Oral,C0521592
+Sputum Culture Positive,C0476434
+Left Ventricular End-Diastolic Pressure Increased,C1168064
+Implantable Defibrillator Insertion,C0877213
+Shoulder Operation,C0186321
+Stem Cell Transplant,C2242529
+Aortic Arteriosclerosis,C1388177
+Arrhythmia Supraventricular,C0428974
+Anaphylactoid Syndrome Of Pregnancy,C1868769
+Neonatal Asphyxia,C0004045
+Intracranial Hypotension,C0524812
+Csf Protein,C1964000
+Neurilemmoma,C0701838
+Peripheral Arterial Occlusive Disease,C1736184
+Brain Death,C0006110
+Nerve Root Compression,C0751463
+Mediastinal Haematoma,C0340161
+Iron Overload,C0282193
+Placenta Praevia,C0158828
+Aortic Valve Disease,C0375259
+Rectal Fistula Repair,C0193188
+Sweat Gland Infection,C1096353
+Abscess Oral,C0267003
+Disorientation,C0233407
+Intraocular Lens Implant,C0023311
+Electrocardiogram St Segment Depression,C0520887
+Feeling Cold,C0234192
+Left Atrial Dilatation,C0344720
+Metabolic Disorder,C0156439
+Bronchial Oedema,C1112522
+Blood Magnesium Increased,C0853749
+Central Nervous System Lymphoma,C0280803
+Foetal Disorder,C0015929
+Kidney Transplant Rejection,C0238217
+Presbyopia,C0033075
+Arteriovenous Fistula Site Complication,C1096388
+Secondary Hypothyroidism,C0271789
+Gastroduodenitis Haemorrhagic,C0877031
+Intraocular Melanoma,C0279695
+Sensory Loss,C0278134
+Endocarditis Enterococcal,C0853398
+Job Dissatisfaction,C0425093
+Paranasal Sinus Hypersecretion,C1112369
+Vascular Graft Occlusion,C0018128
+Procedural Pain,C1619712
+Scan Myocardial Perfusion,C0853562
+Rash Generalised,C0497365
+Bloody Discharge,C0333271
+Cauda Equina Syndrome,C0270799
+Subcutaneous Abscess,C0241266
+Application Site Irritation,C0521490
+Alcoholism,C0154472
+Vena Cava Thrombosis,C0265050
+Exercise Tolerance Decreased,C0424551
+Acute Prerenal Failure,C1167654
+Excessive Masturbation,C0424410
+Alcohol Intolerance,C0541900
+"Schizophrenia, Paranoid Type",C0036349
+Pharyngolaryngeal Pain,C0858635
+Stent Occlusion,C0920178
+Toe Amputation,C0188602
+Liver Transplant Rejection,C0920055
+Adnexa Uteri Pain,C1142117
+Therapy Cessation,C1699848
+"Schizophrenia, Undifferentiated Type",C0392322
+Vascular Graft,C1963940
+Barrett'S Oesophagus,C0004763
+Affective Disorder,C0236780
+Nodal Osteoarthritis,C0853844
+Pseudocyst,C0333161
+Blood Urine Present,C1869041
+Peripheral Occlusive Disease,C1167668
+Ligament Sprain,C0160075
+Haematomyelia,C0018949
+Band Neutrophil Percentage Increased,C1167665
+Shared Psychotic Disorder,C0036939
+Peripheral Sensory Neuropathy,C0151313
+Adnexa Uteri Mass,C1142133
+Mental Disorder Due To A General Medical Condition,C0853895
+Thyroid Function Test,C0476414
+Hemianopia,C0271207
+Pneumonia Fungal,C0339961
+Dementia Alzheimer'S Type,C0854732
+Bladder Prolapse,C0262393
+Arteriovenous Fistula,C1096738
+Blood Lactate Dehydrogenase Increased,C0151754
+Skin Odour Abnormal,C0085595
+Respiratory Tract Infection,C0035243
+Mycobacterium Avium Complex Infection,C0026916
+Immunoglobulins Decreased,C0151728
+Depressed Level Of Consciousness,C0085628
+Neovascularisation,C1112634
+Posterior Capsule Opacification,C1444680
+Hangover,C0221100
+Conjunctival Hyperaemia,C1761613
+Hypercalcaemia Of Malignancy,C0149911
+Abdominal Compartment Syndrome,C1142110
+Scrotal Abscess,C0403200
+Central Nervous System Neoplasm,C0085136
+Incontinence,C0021167
+Conversion Disorder,C0020701
+Muscle Tightness,C0877322
+Anal Sphincter Atony,C0877325
+Impaired Gastric Emptying,C0522063
+Incisional Drainage,C0152277
+Paralysis,C0262576
+Abnormal Sensation In Eye,C0497201
+Pruritus Genital,C0033777
+Oral Mucosal Exfoliation,C1536052
+Dry Throat,C0235234
+Purulence,C0854358
+Diabetic Neuropathy,C0740447
+Vitamin B12 Increased,C0241698
+Colonoscopy,C0730516
+Gingival Erosion,C0235346
+Flat Affect,C0085632
+Tongue Disorder,C0040409
+Spinal Fusion Surgery,C0919636
+Hyperventilation,C0020578
+Orthopedic Procedure,C0524852
+Temperature Intolerance,C1112320
+Papule,C0332563
+Bone Abscess,C1444077
+Hyperparathyroidism Primary,C0221002
+Acquired Protein S Deficiency,C2363755
+Inappropriate Affect,C0233467
+Benign Colonic Neoplasm,C0004991
+Crying,C0010399
+Pseudo Lymphoma,C0221269
+Mass,C0577559
+Abscess Neck,C0157697
+Blood Electrolytes Decreased,C0853885
+Labyrinthitis,C1168225
+Uterine Cancer,C0153567
+Alpha 1 Foetoprotein Increased,C0235971
+Creatinine Urine Decreased,C1096344
+Cytomegalovirus Chorioretinitis,C0877072
+Metastases To Peritoneum,C0346989
+Csf White Blood Cell Count Increased,C0860829
+Blood Chloride Increased,C0595900
+Glomerular Filtration Rate Abnormal,C0854050
+Diaphragmatic Disorder,C0152097
+Laryngocele,C0265761
+Benign Neoplasm Of Thyroid Gland,C0154038
+Adenoiditis,C0001427
+Clumsiness,C0233844
+Enterococcal Sepsis,C1096260
+Wrist Surgery,C0187064
+Wound Infection Pseudomonas,C1167766
+Optic Neuropathy,C2363983
+Rotavirus Infection,C0035869
+Gastrinoma,C0043515
+Gastric Polyps,C0920184
+Pain Of Skin,C0241136
+Engraft Failure,C2242642
+Escherichia Urinary Tract Infection,C0948344
+Ultrasound Breast Abnormal,C0740314
+Pharyngeal Erythema,C0455899
+Gastroduodenitis,C1963899
+Immunoglobulins Increased,C0151729
+Epstein-Barr Virus Antibody Positive,C0241883
+Colitis Microscopic,C0400821
+Antithrombin Iii Decreased,C0238665
+Depression Suicidal,C0221745
+Neurosensory Hypoacusis,C1963781
+Abdominal Pain Upper,C0232493
+Vulvovaginal Dryness,C0520589
+Food Interaction,C1536017
+Biliary Sepsis,C1141873
+Bloody Peritoneal Effluent,C1963878
+Urinary Tract Inflammation,C1610066
+Metastases To Bone Marrow,C0346979
+Immune System Disorder,C0851564
+Visual Acuity Reduced,C0234632
+Lacrimation Decreased,C0013238
+Uterine Enlargement,C0151994
+Genital Rash,C0239729
+Mechanical Urticaria,C2609041
+Immune Reconstitution Syndrome,C1096197
+Bronchopneumonia,C0006285
+Haemolysis,C0856812
+Monoplegia,C0859832
+Blood Folate,C0855978
+Small Intestinal Ulcer Haemorrhage,C0853727
+Self-Medication,C0036600
+Speech Disorder,C0869219
+Impaired Fasting Glucose,C1272092
+Prescribed Overdose,C0919873
+Hepatic Neoplasm Malignant,C0854794
+Diabetic Ulcer,C0743150
+Brain Stem Ischaemia,C0521541
+Occult Blood Positive,C1610082
+Endotracheal Intubation,C0021932
+Respiratory Distress,C0476273
+Alcoholic Pancreatitis,C0376670
+Blood Triglycerides,C0853629
+Acute Generalised Exanthematous Pustulosis,C0877055
+Gastric Ulcer Haemorrhage,C0155973
+Dysgeusia,C0240327
+Blood Potassium Increased,C0853760
+Chapped Lips,C0424489
+Gastrointestinal Disorder,C0542184
+Device Occlusion,C1608397
+Hypoaesthesia,C0020580
+Acute Coronary Syndrome,C0948089
+Renal Impairment,C0232807
+Degeneration Of Uterine Fibroid,C0151995
+Vascular Pseudoaneurysm,C1096532
+Condition Aggravated,C0235874
+Nephrogenic Anaemia,C1141937
+Multi-Organ Disorder,C1141933
+Dental Care,C0011331
+Emotional Distress,C0700361
+Coarctation Of The Aorta,C0003492
+Crackles Lung,C0034642
+Femoral Arterial Stenosis,C0340574
+Infection,C0009450
+Immune System Disorder,C0021053
+Traumatic Haematoma,C0549453
+Autoimmune Disorder,C0004364
+Oesophageal Dilatation,C0740287
+Abdominal Distension,C1291077
+Diabetic Complication,C1328275
+Epigastric Discomfort,C1291078
+Hypersexuality,C0312420
+Mechanical Ventilation,C1868877
+Limb Operation,C0920086
+High Density Lipoprotein Decreased,C0151691
+Adverse Event,C0877248
+Factor Viii Inhibition,C0876997
+Ageusia,C1869048
+Gastrointestinal Ulcer,C0237938
+Decreased Appetite,C1971624
+Insulin Resistance,C0021655
+Pollakiuria,C0042023
+Branchial Cleft Cyst,C0006131
+Haemorrhagic Anaemia,C0948824
+Hypertrophic Cardiomyopathy,C0007194
+Diverticulum,C0155966
+Post Procedural Bile Leak,C1112423
+High Frequency Ablation,C1608985
+Oral Intake Reduced,C1535881
+Allergic Transfusion Reaction,C1283787
+Mean Cell Volume Decreased,C0855790
+Cerebral Atherosclerosis,C0007775
+Lung Transplant,C0729958
+Coagulopathy,C0005778
+Polyuria,C0012797
+Heart Valve Incompetence,C0264879
+Initial Insomnia,C0393760
+Pinguecula,C0152255
+Hypoaesthesia Facial,C1696943
+Calculus Urinary,C0042018
+Carotid Artery Disease,C0007273
+Arterial Stent Insertion,C0521232
+Conjunctivitis Infective,C0497209
+Paracentesis,C0855708
+Extensor Plantar Response,C0034935
+Markedly Reduced Dietary Intake,C0948353
+Epigastric Discomfort,C0392176
+Anticholinergic Syndrome,C1869050
+Biopsy Liver Abnormal,C0740307
+Vascular Dementia,C0236650
+Motor Dysfunction,C0234131
+Overdose,C0520803
+Accidental Overdose,C0520804
+Carbon Monoxide Diffusing Capacity Decreased,C1697788
+Lung Infection,C0947881
+Hyperplastic Cholecystopathy,C0860020
+Ill-Defined Disorder,C0155387
+Mental Disorder,C0856223
+Social Phobia,C2242751
+Metastases To Liver,C0494165
+Hyperreflexia,C0151889
+Thirst,C0039971
+Reye'S Syndrome,C0035400
+Dilatation Atrial,C1536093
+Infusion Site Mobility Decreased,C1697540
+Tinnitus,C0235283
+Fear Of Eating,C0919597
+Debridement,C0011079
+Face Injury,C0015459
+Bladder Neck Obstruction,C0005694
+Activities Of Daily Living Impaired,C0740765
+Vertigo Positional,C0522351
+Electrocardiogram Qrs Complex,C0429027
+Strangury,C0241705
+Umbilical Hernia Repair,C0019333
+Sputum Discoloured,C0854425
+Areflexia,C0234146
+Surgical Vascular Shunt,C0679640
+Joint Prosthesis User,C0919806
+Blood Parathyroid Hormone Increased,C0853023
+Sensitivity Of Teeth,C0011432
+Congestive Cardiomyopathy,C0007193
+Compression Fracture,C0521169
+Family Stress,C0577730
+Endotracheal Intubation Complication,C0281803
+Reticulocyte Count Decreased,C0852700
+Periarthritis,C1619705
+Precancerous Skin Lesion,C0877511
+Tooth Infection,C0877046
+Hidradenitis,C0162504
+Ulcer Haemorrhage,C0155967
+Hypotony Of Eye,C0154782
+Lung Infection Pseudomonal,C1112421
+Glomerular Vascular Disorder,C0852683
+Nephropathy Toxic,C0595916
+Cardiac Failure Chronic,C0264716
+Erythropoiesis Abnormal,C0702109
+Polyneuropathy,C0032541
+Peritoneal Dialysis Complication,C0274418
+Cardiac Enzymes Increased,C0741921
+Ischaemic Cerebral Infarction,C1262005
+Cardiac Aneurysm,C0189786
+Medication Residue,C0948413
+Intervertebral Disc Compression,C1096358
+Secretion Discharge,C1096020
+Bleeding Time Prolonged,C0151529
+Life Expectancy Shortened,C1504437
+Bedridden,C0741453
+Dermal Cyst,C0241060
+Catheter Site Haemorrhage,C0920166
+Speech Rehabilitation,C0919925
+Maxillofacial Operation,C1096294
+Stevens-Johnson Syndrome,C2609418
+Facial Bones Fracture,C0159321
+Cardioactive Drug Level Increased,C0861111
+Enterovesical Fistula,C0156272
+Carotidynia,C0238902
+Open Reduction Of Fracture,C1297885
+Injection Site Urticaria,C0392196
+Cerebellar Infarction,C0236073
+Lacrimation Increased,C0262476
+Neutrophil Count Decreased,C1096135
+Vasogenic Cerebral Oedema,C0472387
+Monocyte Percentage Increased,C0948339
+"Blood 1,25-Dihydroxycholecalciferol Decreased",C1096139
+Blepharal Pigmentation,C0854438
+Endotoxic Shock,C0036981
+Culture Wound Positive,C0476436
+Hepatobiliary Infection,C0744868
+Duodenal Stenosis,C0238093
+Biopsy Bone,C0856590
+Upper Respiratory Tract Inflammation,C0877558
+Lymphocyte Percentage,C0948340
+Muscle Enzyme,C1141893
+Cytomegalovirus Antigen,C0919710
+Coordination Abnormal,C0520966
+Neuroleptic Malignant Syndrome,C1869046
+Joint Ankylosis,C0003090
+Haematoma Evacuation,C0195053
+C-Reactive Protein Increased,C0742906
+Temporomandibular Joint Syndrome,C0039496
+Febrile Infection,C0948233
+Blood Creatine Phosphokinase Decreased,C2242481
+Multiple Sclerosis Relapse,C0856120
+Lumbar Radiculopathy,C1263855
+Catheter Related Complication,C0948806
+Dialysis Device Complication,C0948805
+Carcinoembryonic Antigen Increased,C0549371
+Angiogram,C0855964
+Pancreatic Mass,C0877425
+Alanine Aminotransferase,C0855618
+Painful Respiration,C0423729
+Blood Potassium,C0853759
+Urine Sodium,C0854101
+Eye Rolling,C0522336
+Eosinophil Count Decreased,C0854104
+Haemorrhage Subcutaneous,C0854107
+Chest Wall Abscess,C0263107
+Urine Osmolarity Decreased,C0854057
+Open Wound,C0347623
+Acute Left Ventricular Failure,C1306063
+Dental Fistula,C0011361
+Metastases To Lymph Nodes,C0686619
+Sinus Polyp,C0155822
+Cancer Pain,C0596240
+Abdominal Wall Disorder,C1290865
+Anticonvulsant Drug Level Increased,C1141877
+Toxic Dilatation Of Colon,C0025162
+Blood Arsenic Increased,C0855864
+Femoral Artery Dissection,C0948373
+Chlamydial Infection,C0375026
+Cervical Spinal Stenosis,C0158280
+Musculoskeletal Disorder,C0158285
+Bone Neoplasm Malignant,C0279530
+Vaginal Discharge,C0023533
+Blood Urea Abnormal,C0438242
+Rotator Cuff Repair,C0186666
+Aura,C0236018
+Viraemia,C0855973
+Breast Lump Removal,C0852740
+Denture Wearer,C0877122
+Myeloma Recurrence,C0948044
+Blood Creatine Phosphokinase Mm Increased,C0855677
+Rectocele,C0149771
+Nerve Block,C0027741
+Fatigue,C0086525
+Optic Nerve Cupping,C0852952
+Postmenopause,C0206159
+Skin Fibrosis,C0263008
+Tooth Abscess,C0031085
+Respiratory Failure,C3203358
+Brain Scan Abnormal,C0476393
+Ligament Disorder,C0852318
+Pericardial Disease,C2363985
+Mean Cell Haemoglobin Increased,C0855789
+Intervertebral Discitis,C0012624
+Depressed Mood,C0344315
+Anorectal Disorder,C0034882
+Sleep Disorder Due To A General Medical Condition,C0855251
+Hiatus Hernia,C3489393
+Hepatitis Fulminant,C0302809
+Ageusia,C2364111
+Myopathy Steroid,C0270994
+Lacrimation Increased,C3257803
+Tooth Discolouration,C0040434
+Tooth Erosion,C0040436
+Oral Pustule,C1112257
+Judgement Impaired,C0233818
+Septic Embolus,C0333222
+Skin Cancer,C0699893
+Dysarthria,C0234518
+Death,C0277589
+Drug Screen Positive,C0920169
+Intentional Self-Injury,C0595861
+Rib Deformity,C0575507
+Reflux Gastritis,C0267158
+Excoriation,C1302752
+Metastatic Renal Cell Carcinoma,C0278678
+Spinal Haemangioma,C1697451
+Functional Residual Capacity Decreased,C0520834
+Dyspnoea,C0553668
+Intracardiac Thrombus,C0876998
+Bone Lesion,C0185240
+Ventricular Hypokinesia,C1142287
+Barotrauma,C0004760
+Oesophageal Oedema,C1536009
+Lenticular Opacities,C1510497
+Menarche,C0025274
+Blood Test Abnormal,C0854146
+Jaundice Cholestatic,C0022354
+Musculoskeletal Disorder,C0026857
+Snoring,C0037384
+Depression,C0011570
+Renal Tubular Necrosis,C1720775
+Skin Induration,C0241075
+Colon Cancer Stage I,C0278480
+Breast Feeding,C0006147
+Oxygen Saturation Decreased,C2363801
+Prothrombin Time Prolonged,C0877025
+Faecaloma,C1321686
+Acute Stress Disorder,C0236816
+Glioblastoma,C0017636
+Gambling,C0030662
+Carotid Artery Occlusion,C0265101
+Alpha Haemolytic Streptococcal Infection,C1096266
+Sleep Disorder,C0037317
+Eye Infection Staphylococcal,C0521834
+Erectile Dysfunction,C0242350
+Wound Infection Staphylococcal,C1167765
+Immune-Mediated Necrotising Myopathy,C3267047
+Thyroid Cancer Metastatic,C1096666
+Streptococcal Bacteraemia,C0152964
+Myoglobin Blood Increased,C0853257
+Hypertransaminasaemia,C2242708
+Cognitive Disorder,C0338656
+Haematotympanum,C0019125
+Helicobacter Infection,C0079487
+Pitting Oedema,C1696153
+International Normalised Ratio Increased,C0853225
+Feeling Abnormal,C1443060
+Skeletal Injury,C0597457
+Mental Status Changes,C0856054
+Haemochromatosis,C0238158
+Emotional Disorder,C0349336
+Frustration,C0016770
+Csf Monocyte Count Decreased,C1096132
+Limb Injury,C0743668
+Abasia,C0877217
+Non-Hodgkin'S Lymphoma Stage I,C0677958
+Pharmaceutical Product Complaint,C0948027
+Acidosis,C0268030
+Cardiac Pacemaker Insertion,C0189817
+Drug Dispensing Error,C1699504
+Bronchial Secretion Retention,C1868710
+Lacrimation Increased,C0423153
+Bone Callus Excessive,C1141905
+Lymphadenopathy Mediastinal,C0520743
+Edentulous,C0026644
+Renal Embolism,C0852031
+Neglect Of Personal Appearance,C0424462
+Clostridium Difficile Colitis,C0238106
+Electrocardiogram Qt Prolonged,C0151878
+Paradoxical Pressor Response,C0221733
+Cholangitis Chronic,C0267918
+Early Satiety,C0239233
+Bone Fragmentation,C1535973
+Iatrogenic Injury,C0854404
+Hepatic Congestion,C1735632
+Breast Cancer Recurrent,C0278493
+Peritoneal Dialysis,C1997821
+Localised Infection,C0016397
+Mean Arterial Pressure Decreased,C0520854
+Chondromalacia,C0085700
+Hypoaesthesia,C0028643
+Protein Total Decreased,C0860901
+Cryptococcal Cutaneous Infection,C1096256
+Anti-Erythropoietin Antibody Positive,C0877020
+Epidural Anaesthesia,C0002913
+Venous Stenosis,C0340753
+Kidney Fibrosis,C0151650
+Pneumatosis,C1112565
+Dental Pulp Disorder,C0011405
+Troponin Increased,C1141948
+Multi-Organ Failure,C0919672
+Dyspepsia,C0232459
+Peritonitis Bacterial,C0341503
+Lipids Increased,C0851043
+Cervical Cord Compression,C0852866
+Spinal Disorder,C0037933
+Pancreatic Insufficiency,C0030293
+Bone Cancer Metastatic,C0153690
+Kidney Malformation,C0266292
+Cardioactive Drug Level,C0861112
+Choluria,C0159076
+Staphylococcal Skin Infection,C0038166
+Congenital Anaemia,C0158995
+Dental Prosthesis Placement,C0948537
+Drug Tolerance,C0521854
+Retroperitoneal Haematoma,C0341512
+Electrocardiogram P Wave Abnormal,C0438157
+Birth Trauma,C0852280
+Prostatomegaly,C0847978
+Lichen Sclerosus,C0152460
+Dry Gangrene,C0333536
+Neoplasm Progression,C0178874
+Biliary Dyskinesia,C0005416
+Drug Effect Decreased,C0521845
+Porphyria Non-Acute,C0162533
+Hyperparathyroidism Secondary,C0020503
+Subdural Haemorrhage,C0160237
+Bladder Discomfort,C0549391
+Allergic Sinusitis,C0748726
+Kidney Enlargement,C0542518
+Gallbladder Operation,C0193438
+Vocal Cord Disorder,C0264309
+Spinal Cord Oedema,C0270777
+Visual Impairment,C3665347
+Chronic Hepatic Failure,C2363981
+Peroneal Nerve Injury,C1321896
+Hypoalbuminaemia,C0239981
+Accidental Needle Stick,C1112200
+Shunt Infection,C1141920
+Cerebral Artery Stenosis,C1504438
+Bone Density Decreased,C0877225
+Cardiac Rehabilitation Therapy,C0700431
+Bone Marrow Depression,C0151773
+Pharyngeal Disorder,C0851727
+Congenital Vaginal Cyst,C1504348
+Cystocele,C1261300
+Cervix Carcinoma Stage I,C0278575
+Postoperative Respiratory Distress,C1096297
+Neurological Infection,C0850034
+Application Site Urticaria,C0919603
+Food Craving,C0872380
+Exposure To Toxic Agent,C0853965
+Hypertonic Bladder,C0878773
+Blood Testosterone Increased,C0853118
+Blood Culture Positive,C0877418
+Biliary Tract Operation,C0005427
+Gastrointestinal Arteriovenous Malformation,C0744321
+Angiodysplasia,C0854242
+Pain Exacerbated,C0853946
+Hepatojugular Reflux,C0239949
+Histoplasmosis Disseminated,C0343900
+Wolff-Parkinson-White Syndrome,C0043202
+Breast Reconstruction,C0085076
+Laparotomy,C0857347
+Arthroscopic Surgery,C0750934
+Blood Uric Acid Decreased,C0855644
+Adenocarcinoma Pancreas,C0281361
+Rheumatoid Nodule,C1095946
+Oral Fungal Infection,C0877048
+Androgens Decreased,C0855637
+Chronic Respiratory Failure,C0264492
+Musculoskeletal Stiffness,C0948525
+Carotid Artery Stent Insertion,C0398087
+Bladder Cancer Recurrent,C0278827
+Alveoloplasty,C0002393
+Finger Deformity,C0410740
+Overgrowth Bacterial,C0151521
+Breast Enlargement,C2225524
+Bowen'S Disease,C0006079
+Mesothelioma Malignant Advanced,C0854889
+Oral Surgery,C0524861
+Myoclonus,C0027066
+Infrequent Bowel Movements,C1167677
+Epididymal Cyst,C0403265
+Tongue Injury,C0542525
+Enzyme Abnormality,C1112597
+Drug Dose Omission,C1535996
+Cardiac Valve Abscess,C1535991
+Speech Disorder,C0037822
+Dental Prosthesis User,C0920129
+Joint Contracture,C0009918
+Anal Candidiasis,C0343869
+Subclavian Vein Thrombosis,C0749087
+Thinking Abnormal,C0233632
+Non-Hodgkin'S Lymphoma,C0024305
+Completed Suicide,C0038661
+Haemorrhage,C0859253
+Reticulocyte Count Increased,C1736148
+Vision Blurred,C0541881
+Disease Progression,C1141957
+Oral Infection,C0555971
+Hostility,C0020039
+Sclerosing Encapsulating Peritonitis,C1141885
+Accommodation Disorder,C0152198
+Sickle Cell Anaemia With Crisis,C0238425
+Astigmatism,C0152193
+Renal Function Test Abnormal,C0236151
+Jugular Vein Thrombosis,C0852958
+Herpes Virus Infection,C0019340
+Metastases To Stomach,C0877292
+Liver Function Test Abnormal,C0877359
+Body Dysmorphic Disorder,C0005887
+Micturition Frequency Decreased,C0858668
+Endoscopy,C0419323
+Osteomyelitis Chronic,C0008707
+Vulvovaginal Pain,C0236082
+Ejaculation Disorder,C2937350
+Benign Renal Neoplasm,C0496892
+Migraine With Aura,C0154723
+Lesion Excision,C0337364
+Anal Haemorrhage,C0426747
+Cor Pulmonale Chronic,C0238074
+Cerebral Aspergillosis,C0948691
+Communication Disorder,C0009460
+Eye Irritation,C0235266
+Nephritis Allergic,C0858677
+Self-Injurious Ideation,C0522178
+Oesophageal Candidiasis,C0239295
+Pelvic Deformity,C0576416
+Epidermal Necrosis,C1167709
+Urine Analysis Abnormal,C0438142
+Calculus Bladder,C0029529
+Mucosal Atrophy,C2242595
+Gastrointestinal Candidiasis,C0343886
+Hepatic Enzyme Increased,C0857093
+Accidental Exposure,C0450027
+Ebstein'S Anomaly,C0013481
+Microcytic Anaemia,C0085576
+Malocclusion,C0155938
+Biopsy Breast Abnormal,C0740306
+Optic Ischaemic Neuropathy,C0751711
+Bone Disorder,C0005940
+Erysipeloid,C1276801
+Coeliac Artery Compression Syndrome,C0152098
+Post Procedural Cellulitis,C0948603
+Mononeuropathy,C0740343
+Autoimmune Inner Ear Disease,C1735590
+Nasal Ulcer,C0264267
+Necrosis,C0027540
+Generalised Anxiety Disorder,C0270549
+Pulpitis Dental,C0034103
+Axillary Pain,C0577659
+Ankle Operation,C0188412
+Vein Disorder,C0235522
+Iris Cyst,C0271119
+Rhinitis Allergic,C2607914
+Cholelithotomy,C0193446
+Vith Nerve Disorder,C0271355
+Toxicity To Various Agents,C0235822
+Corneal Abscess,C0155091
+Hearing Impaired,C0018772
+Urine Albumin/Creatinine Ratio,C1096058
+Gastrointestinal Injury,C0160345
+Respiratory Tract Haemorrhage,C0235560
+Immunosuppressant Drug Level,C0948257
+Abdominal Pain Upper,C0235296
+Arterial Disorder,C0852057
+Ileal Ulcer,C0151975
+Systemic Lupus Erythematosus,C0409974
+Osteitis Deformans,C0158439
+Transferrin Saturation Decreased,C0919785
+Skin Desquamation,C0237849
+Cubital Tunnel Syndrome,C0206239
+Blood Bicarbonate Decreased,C0852909
+Breast Disorder Female,C0677658
+Ischaemic Stroke,C0948008
+Anger,C0002957
+Nasal Turbinate Hypertrophy,C0155840
+Soliloquy,C0854367
+Osteopenia,C0029453
+Blood Osmolarity Decreased,C0853755
+Dermatosis,C0037274
+Lung Squamous Cell Carcinoma Stage Unspecified,C0149782
+Extrasystoles,C1735340
+Inflammation,C0021368
+Quality Of Life Decreased,C1963786
+Pulmonary Toxicity,C0919924
+Brain Cancer Metastatic,C0220650
+Hypoaesthesia,C1167981
+Withdrawal Syndrome,C0038587
+Peripheral Nerve Decompression,C0196573
+Blood Creatine Phosphokinase Increased,C0151576
+Sexual Dysfunction,C0549622
+Chronic Left Ventricular Failure,C1328381
+Middle Insomnia,C0393761
+Amnesia,C0751295
+Refusal Of Treatment By Patient,C0040809
+Blood Immunoglobulin A Increased,C0853702
+Adenocarcinoma Of The Cervix,C0279672
+Metastatic Pain,C0857144
+Dialysis,C0011946
+Impaired Healing,C0151692
+Intervertebral Disc Displacement,C0021818
+Skeletal Survey Abnormal,C0436498
+Cardiac Operation,C0018821
+Claustrophobia,C0008909
+Buttock Pain,C0231710
+Iliac Vein Occlusion,C1112343
+Peripheral Nerve Palsy,C1142028
+Beta Haemolytic Streptococcal Infection,C0948279
+Mucosal Inflammation,C0333355
+Pelvic Haematoma,C0269895
+Eyeball Rupture,C0743728
+Clostridial Infection,C1869076
+Bacteria Stool Identified,C0855265
+Haemorrhagic Hepatic Cyst,C2242498
+Skin Hypertrophy,C0858701
+Gastric Disorder,C0851748
+Faeces Discoloured,C0235315
+Chest Pain,C0151826
+Vascular Injury,C0178324
+Finger Amputation,C0177646
+Gingival Disorder,C0017563
+Torsade De Pointes,C1869051
+Gingival Hyperplasia,C0017566
+Gastrointestinal Sounds Abnormal,C1963818
+Poisoning,C0728899
+Cough,C0574067
+Retinal Infarction,C0281967
+Neurological Symptom,C0235031
+Cryoglobulinaemia,C0543697
+Erythromelalgia,C0014804
+Photosensitivity Reaction,C0162830
+Endophthalmitis,C0154774
+Electrocardiogram Qt Corrected Interval Prolonged,C0855333
+Arteriovenous Graft Thrombosis,C0349757
+Intermediate Uveitis,C0042166
+Breast Engorgement,C0085688
+Posturing,C0872410
+Concomitant Disease Aggravated,C0853643
+Hepatic Lesion,C0577053
+Altered State Of Consciousness,C0234428
+Aspartate Aminotransferase Decreased,C0855622
+Blindness Unilateral,C0750272
+Hand Deformity,C0018564
+Laryngeal Oedema,C0023052
+Bladder Hypertrophy,C0268855
+Alanine Aminotransferase Increased,C0151905
+Intracranial Aneurysm,C0007766
+Device Failure,C0854479
+Photosensitivity Reaction,C0236106
+Rash Pustular,C0151883
+Angina Pectoris,C0235467
+Myocardial Rupture,C0018813
+Hypertonia,C0026826
+Agitation,C0424295
+Ventricular Arrhythmia,C0085612
+Sudden Death,C0011071
+Abdominal Tenderness,C0238572
+Fungaemia,C0085082
+Congenital Tricuspid Valve Incompetence,C2242544
+Cholestasis,C0008370
+Depersonalisation,C0011551
+Palpable Purpura,C0151190
+Rash Erythematous,C0234913
+Renal Failure Chronic,C0403447
+Spondylolysis,C0840926
+Activated Partial Thromboplastin Time Prolonged,C0853223
+Fistula Discharge,C1868822
+Cyst Rupture,C0404478
+Retinogram Abnormal,C1167863
+Infarction,C0021308
+Leukoaraiosis,C0948163
+Injection Site Nodule,C0542120
+Pulmonary Oedema,C0023212
+Arterial Stenosis,C0877334
+Lymphocyte Percentage Decreased,C0949044
+Renal Atrophy,C0341698
+Abdominal Rigidity,C0159066
+Vascular Stenosis,C0679403
+Cerebral Venous Thrombosis,C0151945
+Pulmonary Thrombosis,C0151946
+Skin Laceration,C0558401
+Extremity Contracture,C0919768
+Aortic Dissection,C2242658
+Culture Throat Positive,C0476435
+Tendon Disorder,C0151936
+Escherichia Infection,C0854326
+Weight Fluctuation,C0241729
+Cardiac Ventricular Disorder,C1112386
+Electrocardiogram Change,C0236140
+Abdominal Pain,C0221512
+Akinesia,C0085623
+Physical Assault,C0740319
+Stasis Dermatitis,C0011620
+Urticaria Papular,C0263352
+Hair Growth Abnormal,C0232409
+Postoperative Wound Infection,C0038941
+Cellulitis Staphylococcal,C0853857
+Polysubstance Dependence,C0032606
+Diabetic Gastropathy,C0860163
+Hyperdynamic Left Ventricle,C2363749
+Bone Swelling,C0860513
+Respiratory Tract Congestion,C0949070
+Radiculitis Brachial,C0392447
+Semen Volume Decreased,C0855521
+Wound Infection,C1695691
+Documented Hypersensitivity To Administered Drug,C1536015
+Mastectomy,C0024887
+Gingival Erythema,C0239735
+Ulnar Nerve Injury,C0161458
+Prostate Infection,C0240811
+Personality Change,C0859667
+Abdominal Strangulated Hernia,C0948610
+Wound Infection Bacterial,C1698473
+Electrocardiogram St-T Segment Abnormal,C0948376
+Transverse Sinus Thrombosis,C0270639
+Porphyria Non-Acute,C0162566
+Pneumomediastinum,C0025062
+Osteotomy,C0856409
+Anticonvulsant Drug Level Decreased,C1142503
+Dyspnoea At Rest,C0474453
+Contracted Bladder,C0268854
+Venous Occlusion,C0241669
+Glomerulonephritis Membranous,C0017665
+Red Cell Distribution Width Increased,C0948014
+Fanconi Syndrome,C0341702
+Urine Ketone Body Present,C0860805
+Peritoneal Tuberculosis,C0041325
+Osteosclerosis,C0029464
+Blood Lactate Dehydrogenase Decreased,C0855476
+Tooth Loss,C0080233
+Breast Cancer Metastatic,C0278488
+Impaired Driving Ability,C0877256
+Respiratory Syncytial Virus Bronchiolitis,C0276340
+Continuous Haemodiafiltration,C0472686
+Hypoxic Encephalopathy,C1140716
+Injection Site Cellulitis,C0919590
+Poriomania,C0236037
+Lip Ulceration,C0267033
+Dyslalia,C0233842
+Blood Pressure Immeasurable,C0858911
+Osteoma Cutis,C0334041
+Device Leakage,C0854482
+Blindness Unilateral,C0271240
+Graft Infection,C0406855
+Obstruction Gastric,C0149700
+Ileostomy,C0860184
+Rheumatoid Factor Increased,C1141900
+Oxygen Supplementation,C0919655
+Viral Sinusitis,C0748731
+Intentional Drug Misuse,C1696685
+Eosinophil Percentage Increased,C0948331
+Urethral Stenosis,C0856379
+Antimicrobial Susceptibility Test Resistant,C0854157
+Radicular Pain,C0278147
+Cyst Aspiration,C0851119
+Intestinal Anastomosis,C2363889
+Asterixis,C0232766
+International Normalised Ratio Decreased,C0853226
+Cushingoid,C0332601
+Radiculitis Lumbosacral,C0263898
+Nephrotic Syndrome,C0027720
+Oral Disorder,C0026636
+Bladder Disorder,C0852154
+Paraesthesia Circumoral,C0151838
+Injection Site Stinging,C1142080
+Capillary Fragility Increased,C0151541
+Skin Turgor Decreased,C0237322
+Pain In Extremity,C0239377
+Post Procedural Nausea,C1262038
+Dizziness Postural,C0234987
+Csf Protein Increased,C1806780
+Cholangitis Acute,C0267917
+Complications Of Transplanted Liver,C1261282
+Pyothorax,C0014013
+Congenital Pyelocaliectasis,C0919561
+Cold Sweat,C0235848
+Eosinophil Count Abnormal,C0853644
+Allergy To Animal,C0700360
+Gastrointestinal Mucosal Disorder,C1112313
+Precocious Puberty,C0034013
+Cytomegalovirus Test Positive,C0948099
+Tongue Discolouration,C0151596
+Parosmia,C1510410
+Dialysis Device Insertion,C1142460
+Biliary Drainage,C0400745
+Coronary Artery Disease,C1956346
+Lumbar Puncture Abnormal,C0740355
+Snake Bite,C0037379
+Mycoplasma Infection,C0026936
+Nosocomial Infection,C0205721
+Immunosuppressant Drug Level Decreased,C0948256
+Chromaturia,C0541832
+Mammoplasty,C0191925
+Csf Lactate Dehydrogenase Increased,C0855362
+Pulmonary Venous Thrombosis,C0392108
+Radical Mastectomy,C0024884
+Tubulointerstitial Nephritis,C1639520
+Retinal Anomaly Congenital,C0266564
+Intestinal Polyp,C1328312
+Peripheral Ischaemia,C0235490
+Urine Uric Acid Decreased,C0855645
+Hepatic Pain,C0522067
+Micturition Disorder,C0042035
+Interleukin-2 Receptor Increased,C1735330
+Hepatoblastoma,C0854796
+Nodule On Extremity,C0919750
+Stenotrophomonas Infection,C0948224
+Basophil Count Abnormal,C0580547
+Panel-Reactive Antibody Increased,C1141950
+Biopsy Liver,C0193388
+Polyneuropathy Toxic,C0270934
+Thyroxine Abnormal,C0853626
+Intubation,C0854686
+Liver Transplant,C0948649
+Xerophthalmia,C0043349
+Axillary Mass,C0238729
+Left Ventricular Dysfunction,C0242698
+Tobacco Abuse,C0040336
+Dizziness,C0220870
+Drop Attacks,C0259813
+Gastrointestinal Disorder,C0947846
+Sciatic Nerve Neuropathy,C0149940
+Glycosylated Haemoglobin Increased,C0239940
+Polyp Colorectal,C0949059
+Metastases To Lung,C0153676
+Subdural Hygroma,C0751533
+Diarrhoea,C2129214
+Back Disorder,C0263888
+Hepatocellular Damage,C0851744
+Anorectal Disorder,C0851745
+Hormone Level Abnormal,C1695986
+Meniscus Lesion,C1096124
+Hospitalisation,C1328331
+Nuclear Magnetic Resonance Imaging Brain Abnormal,C1319851
+Mallory-Weiss Syndrome,C0024633
+Aortic Valve Sclerosis,C1455780
+Obsessive-Compulsive Personality Disorder,C0009595
+Viral Diarrhoea,C0152517
+Tumour Compression,C2242727
+Injury,C0151736
+Lethargy,C0023380
+Female Sterilisation,C0015787
+Diabetic Hyperosmolar Coma,C0020457
+Gastrointestinal Tract Irritation,C2697368
+Excessive Granulation Tissue,C0263634
+Social Avoidant Behaviour,C0855237
+Food Aversion,C0877173
+Hyperglycaemic Hyperosmolar Nonketotic Syndrome,C1504377
+Dysgeusia,C0013378
+Cervix Disorder,C0007867
+Diabetic Foot,C1456868
+Bladder Transitional Cell Carcinoma,C1739113
+Microangiopathic Haemolytic Anaemia,C0221021
+Haemoglobinuria,C0221022
+Intermittent Claudication,C0021775
+Joint Sprain,C0160059
+Low Set Ears,C0239234
+Anaemia Megaloblastic,C0002888
+Abdominal Discomfort,C0232487
+Pancreatic Neoplasm,C0852432
+Pancreatic Duct Obstruction,C0341491
+Hepatobiliary Disease,C0267792
+Arterial Occlusive Disease,C0003838
+Diabetes Mellitus Inadequate Control,C0579121
+Diabetic Eye Disease,C0342245
+General Physical Condition,C1142137
+Rhonchi,C0035508
+Scrotal Cyst,C1096564
+Taste Disorders,C0039338
+Therapy Regimen Changed,C1141862
+Punctate Keratitis,C0259799
+Abdominal Discomfort,C0235295
+Stress,C0856305
+Blindness Transient,C0858621
+Electrocardiogram Poor R-Wave Progression,C0877038
+Tooth Malformation,C0854201
+Subclavian Artery Thrombosis,C0574012
+Wound Debridement,C0191342
+Ketonuria,C0162275
+Performance Status Decreased,C0877406
+Skin Disorder,C0178298
+Pneumonia Escherichia,C0276089
+Spinal Column Stenosis,C0860554
+Strabismus Congenital,C0521579
+Chest Discomfort,C0235710
+Burning Mouth Syndrome,C0006430
+Staphylococcal Bacteraemia,C0152965
+Acute Prerenal Failure,C0554309
+Embolic Stroke,C0262469
+Abdominal Obesity,C0311277
+Sinus Disorder,C0949040
+Hypoglycaemic Unconsciousness,C1737211
+Muscle Fatigue,C0242979
+Pregnancy,C0032961
+Feeling Drunk,C0522172
+Tooth Extraction,C0040440
+Device Malfunction,C1699018
+Erythema Multiforme,C0038325
+Blood Creatine Increased,C0854029
+Pain,C0234238
+Tenderness,C0234233
+Limb Discomfort,C0854303
+General Physical Health Deterioration,C0877211
+Feeding Tube Complication,C1112251
+Lupus-Like Syndrome,C0919715
+Jaw Disorder,C0022362
+Jaw Fracture,C0022363
+Abnormal Dreams,C0234458
+Treatment Noncompliance,C0376405
+Acute Respiratory Failure,C0264490
+Meningitis Meningococcal,C0025294
+Drug Interaction,C0521849
+Abdominal Haematoma,C0473120
+Hemianopia Homonymous,C0271202
+Barotitis Media,C0161744
+Anhedonia,C0178417
+Feeling Jittery,C0549209
+Coronary Artery Restenosis,C1868718
+Haemothorax,C0347621
+Wrong Technique In Drug Usage Process,C1536011
+Heart Rate Abnormal,C1744601
+Colitis Collagenous,C0238067
+Acute Pulmonary Oedema,C0155919
+Visual Impairment,C0547030
+Pleurodesis,C0189559
+Muscle Spasms,C0023218
+Venoocclusive Liver Disease,C0019156
+Propofol Infusion Syndrome,C1328409
+Blood Lactate Dehydrogenase Increased,C0853149
+Bezoar,C1321581
+Vasodilation Procedure,C0042401
+Therapy Non-Responder,C0919875
+Post Procedural Haemorrhage,C0919874
+Brain Stem Infarction,C0521542
+Vein Wall Hypertrophy,C0853242
+Pain In Extremity,C0023222
+Urine Output,C1287298
+Cardiovascular Disorder,C0007222
+Hepatic Function Abnormal,C0856103
+Blood Potassium Decreased,C0853761
+Application Site Rash,C0521495
+Nephrolithiasis,C0022650
+Carotid Arteriosclerosis,C0577631
+Nasal Disorder,C0028432
+Post Procedural Complication,C1141930
+Aortic Rupture,C0003496
+Breast Cancer Male,C0238033
+Pancreatic Injury,C0273163
+Blood Alkaline Phosphatase Increased,C0852911
+Arteriovenous Fistula Thrombosis,C0340909
+Mastoiditis,C0701825
+Gamma-Glutamyltransferase Increased,C0151662
+Allergic Oedema,C0847033
+Disturbance In Attention,C0235198
+Diastolic Dysfunction,C0520863
+Bone Erosion,C0948713
+Infusion Related Reaction,C0948715
+Mood Altered,C0085633
+Gastroenteritis Bacillus,C0853199
+Polycythaemia,C0856818
+Coronary Artery Thrombosis,C0877156
+Mesenteric Vascular Insufficiency,C1412000
+Oliguria,C0028961
+Hypertensive Cardiomegaly,C0694541
+Rash Pustular,C0085641
+Abdominal Distension,C0392025
+Spermatocele,C0194866
+Blood And Lymphatic System Disorders,C0851353
+Urine Flow Decreased,C0549418
+Lower Respiratory Tract Infection Bacterial,C1535882
+Lacrimal Disorder,C0235901
+Lymphocyte Stimulation Test Positive,C1167940
+Visual Disturbance,C2363982
+Gastrooesophageal Sphincter Insufficiency,C1328327
+Multiple Drug Overdose Intentional,C1328321
+Anti-Insulin Antibody,C1096142
+Renal Artery Stenosis,C0035067
+Anorgasmia,C0234022
+Brain Herniation,C0553686
+Hand Fracture,C0435632
+Transplant Failure,C1262018
+Intestinal Obstruction,C0021843
+Tremor,C0392703
+Vulvar Erosion,C1262150
+Post Concussion Syndrome,C0546983
+"Delusional Disorder, Persecutory Type",C0948981
+Iiird Nerve Disorder,C0271353
+Pulmonary Alveolar Haemorrhage,C0852879
+Myoglobin Urine Present,C0853875
+Drug Intolerance,C0277585
+Brain Stem Syndrome,C1328447
+Cardiac Failure Acute,C0264714
+Hypertensive Heart Disease,C0264650
+Acute Pulmonary Oedema,C0155895
+Cardio-Respiratory Arrest,C0520600
+Haemoglobin Increased,C0549448
+Anaemia Postoperative,C0877398
+Pericarditis Tuberculous,C0031049
+Breath Sounds Abnormal,C0231856
+Cholestasis,C0008372
+Non-Small Cell Lung Cancer,C0007131
+Cerebral Artery Thrombosis,C0856546
+Menopausal Symptoms,C0600142
+Rash Maculo-Papular,C0423791
+Allergic Hepatitis,C1959797
+Hypertensive Emergency,C0745136
+Acquired Mitochondrial Dna Mutation,C1112340
+Hepatic Fibrosis,C0239946
+Face Oedema,C0542571
+Haematocrit Increased,C0239935
+Open Fracture,C0016662
+Blood Pressure Diastolic Decreased,C0277890
+Basophil Count Increased,C1963840
+Drug Specific Antibody Present,C0853880
+Allergy To Arthropod Sting,C1141954
+Disease Recurrence,C0679254
+Choroidal Detachment,C0162279
+Fibrin Decreased,C0151643
+Brain Natriuretic Peptide Increased,C1095988
+Metaplasia,C0269190
+Diverticulum Oesophageal,C0014854
+Plasmacytosis,C0085663
+Oesophageal Obstruction,C0239296
+Premature Rupture Of Membranes,C0157147
+Premature Labour,C0156714
+Viral Labyrinthitis,C0155508
+Arterial Thrombosis,C0151942
+Csf Monocyte Count Increased,C1096131
+Coronary Ostial Stenosis,C0345120
+Hip Arthroplasty,C0186193
+Application Site Dermatitis,C0856891
+Alopecia,C0858678
+Chemotherapeutic Drug Level Increased,C0861113
+Fibula Fracture,C0149699
+Dermatitis Psoriasiform,C0262985
+Sensation Of Heaviness,C0581912
+Coombs Indirect Test Positive,C0151570
+Glasgow Coma Scale,C1142332
+Vulvovaginal Discomfort,C0520587
+Incorrect Dose Administered,C1536013
+Hepatitis Acute,C0267827
+Sinus Arrest,C0541782
+Exposure To Contaminated Air,C0522744
+Bladder Dilatation,C0549253
+Heart Injury,C0160318
+Aggression,C0001807
+Gingival Disorder,C1963978
+Drug Level Below Therapeutic,C0853144
+Blood Erythropoietin Increased,C1096704
+Ocular Vascular Disorder,C0947843
+Antinuclear Antibody Increased,C1610080
+Sinus Operation,C0748725
+Catatonia,C0007398
+Cholecystitis Infective,C1262168
+Therapeutic Reaction Time Decreased,C0542189
+Pedal Pulse Decreased,C1328358
+Blood Amylase Increased,C0852913
+Vascular Neoplasm,C0282607
+Foot Deformity,C0016506
+Neutropenic Colitis,C0400823
+Atrioventricular Block,C0018794
+Toe Deformity,C0149662
+Abnormal Dreams,C0344320
+Staring,C0423086
+Tumour Lysis Syndrome,C0041364
+Oedema Mouth,C0236065
+Psoriasis,C0235763
+Corneal Scar,C0349702
+Palmar-Plantar Erythrodysaesthesia Syndrome,C0549410
+Catheter Site Related Reaction,C0863070
+Pruritus Generalised,C0475858
+Serum Ferritin Increased,C0241013
+Leukoencephalopathy,C1964002
+Spondylolisthesis,C0038017
+Myocardial Infarction,C0948369
+Amnesia,C0701811
+Hepatic Enzyme,C0235996
+Opportunistic Infection,C0747031
+Urine Abnormality,C0235639
+Biopsy Bone Marrow,C0005954
+Oral Soft Tissue Disorder,C0266998
+Small Cell Carcinoma,C0852517
+Oral Pruritus,C0948521
+Bone Debridement,C0185221
+Aspiration Bone Marrow,C0855296
+Herpes Virus Infection,C0019372
+Haemoglobinaemia,C0235573
+Intervertebral Disc Operation,C0408591
+Abdominal Adhesions,C0549357
+Status Asthmaticus,C0038218
+Blood Testosterone Decreased,C0853117
+Dependent Personality Disorder,C0011548
+Blood Bicarbonate,C0853737
+Base Excess,C1262024
+Systolic Hypertension,C0221155
+Immunodeficiency,C1096652
+Prostate Examination Abnormal,C1096657
+Skin Plaque,C0241148
+Viith Nerve Injury,C0161408
+Eosinophilic Pneumonia Chronic,C0008680
+Dengue Fever,C0011311
+Lipase,C0549475
+Conjunctival Cyst,C0155170
+Red Blood Cell Count Increased,C0427458
+Laryngospasm,C0023066
+Acrochordon,C1112305
+Nail Avulsion,C0191722
+Asbestosis,C0003949
+Hypergammaglobulinaemia Benign Monoclonal,C0026470
+Mitral Valve Incompetence,C0026266
+Hernia Repair,C0342971
+Cardiac Septal Defect,C0018816
+Blood Glucose Fluctuation,C0877314
+Calculus Urethral,C0162301
+Thrombocytopenic Purpura,C0857305
+Urine Colour Abnormal,C0522153
+Oral Herpes,C0341012
+Therapeutic Embolisation,C0013931
+Human Herpes Virus 6 Serology Positive,C1262000
+Bullous Lung Disease,C0746101
+Bronchial Hyperactivity,C0085129
+Abdominal Wall Haemorrhage,C2242495
+Pneumatosis Cystoides Intestinalis,C0032266
+Cerebral Cyst,C0154724
+Monocyte Percentage Decreased,C0948338
+Clostridium Colitis,C1142300
+Neuromyelitis Optica,C0027873
+Band Neutrophil Percentage Decreased,C1167666
+Cytomegalovirus Colitis,C0341335
+Blood Trypsin Increased,C1611714
+Urge Incontinence,C0150045
+Amphetamines,C1869096
+Corynebacterium Infection,C0010153
+Skin Necrosis,C0151799
+Hypercoagulation,C0542027
+Depressed Level Of Consciousness,C0549249
+Anti-Insulin Antibody Positive,C1096141
+Corneal Erosion,C0392163
+Prolonged Expiration,C0239324
+Post Procedural Haematoma,C1328411
+Anaemia Of Malignant Disease,C0877429
+Hepatic Enzyme Abnormal,C0438237
+Periodontal Operation,C0398950
+Infective Tenosynovitis,C0847403
+Metamorphopsia,C0271185
+Pulmonary Valve Incompetence,C0034088
+Paraneoplastic Syndrome,C1869112
+Volume Blood Decreased,C0085608
+Diverticulitis Intestinal Haemorrhagic,C0854239
+Bence Jones Protein Urine,C0854075
+Large Intestinal Stricture,C0853970
+Hypothalamo-Pituitary Disorder,C0853237
+Mucosal Ulceration,C0236053
+Acute Graft Versus Host Disease In Liver,C1739104
+Blood Urea Decreased,C0549395
+Diffuse Panbronchiolitis,C0878555
+Hypothyroidism Postoperative,C0154157
+Poor Dental Condition,C1168170
+Sleep Talking,C0542313
+Toxic Encephalopathy,C0149504
+Haemodynamic Instability,C0948268
+Tooth Deposit,C0011346
+Mean Cell Volume Increased,C0855791
+Cataract Nuclear,C0392557
+Reversible Posterior Leukoencephalopathy Syndrome,C1504439
+Cerebral Artery Occlusion,C0740391
+Renal Infarct,C0035085
+Iris Hyperpigmentation,C0877306
+Metastases To Central Nervous System,C0686377
+Pus In Stool,C0476348
+Acinetobacter Infection,C0001139
+Viral Upper Respiratory Tract Infection,C0339916
+Medullary Thyroid Cancer,C0238462
+Colectomy,C0192863
+Bone Trimming,C0852839
+Cytomegalovirus Enterocolitis,C0877417
+Lymphocyte Morphology Abnormal,C0853115
+Neutropenic Infection,C1167779
+Soft Tissue Disorder,C0263978
+Lipase Abnormal,C1096303
+Relapsing-Remitting Multiple Sclerosis,C0751967
+Oral Submucosal Fibrosis,C0029171
+Gaze Palsy,C1112261
+Bone Marrow Oedema,C1535993
+Sequestrectomy,C0185216
+Bacterial Sepsis,C0684256
+Metastases To The Mediastinum,C0153677
+Epstein-Barr Virus Test Positive,C1611703
+Metastases To Spine,C0684550
+Chondrosarcoma,C0855011
+Mucous Membrane Disorder,C0151785
+Injury Asphyxiation,C0948352
+Colectomy Total,C0192871
+Hyperammonaemia,C0220994
+Abdominal Mass,C0000734
+Sputum Retention,C0456673
+Actinomycosis,C0001261
+Cardiac Hypertrophy,C1383860
+Blood Gases Abnormal,C0476337
+Band Neutrophil Count Increased,C0919777
+Vertebrobasilar Insufficiency,C0042568
+Nephritic Syndrome,C0268733
+Loose Tooth,C0600028
+Femoral Bruit,C0558799
+Lentigo,C0023321
+Cervical Myelopathy,C0149645
+Tibia Fracture,C0040185
+Bilirubin Conjugated Increased,C0855625
+Starvation,C0038187
+Purulent Discharge,C0333274
+Periodontal Infection,C0747479
+Life Support,C0521300
+Chest X-Ray Abnormal,C0436503
+Venous Thrombosis Limb,C0853347
+Blood Ph Increased,C1096515
+Intestinal Resection,C0192601
+Non-Hodgkin'S Lymphoma,C1737265
+Foreign Body Trauma,C0863170
+Icterus Index Increased,C0858827
+Palatal Oedema,C0240621
+Fluid Imbalance,C2364164
+Oral Lichen Planus,C0206139
+Cutaneous Vasculitis,C0262988
+Paraesthesia Oral,C0521591
+Macular Hole,C0024441
+Oligohydramnios,C0158819
+Echocardiogram Abnormal,C0476369
+Vasculitis Necrotising,C0553548
+Ligament Rupture,C0435118
+Glossoptosis,C0267048
+Small Intestinal Haemorrhage,C0520561
+Haemorrhagic Disorder,C0851563
+Rash,C0239521
+Idiosyncratic Drug Reaction,C0919578
+Blood Zinc Abnormal,C0853768
+Hostility,C0542181
+Shunt Occlusion,C0852964
+Cough,C0850149
+Febrile Bone Marrow Aplasia,C1095923
+Intestinal Malrotation,C0221210
+Shoulder Arthroplasty,C0186662
+Multiple Allergies,C0740281
+Glomerular Filtration Rate Decreased,C0853068
+Amniotic Fluid Volume,C1504330
+Haematocrit Abnormal,C0877168
+Abdominal Wall Infection,C0919934
+Blood Creatinine Increased,C0700225
+Musculoskeletal Stiffness,C0427008
+Erythema Of Eyelid,C0239454
+Localised Exfoliation,C0520893
+Sinus Disorder,C0030469
+Kidney Infection,C0853683
+Spinal X-Ray,C0860689
+Haptoglobin Decreased,C0236062
+Staphylococcal Osteomyelitis,C1535985
+Enterocutaneous Fistula,C0341318
+Meningeal Disorder,C0154728
+Diabetic Vascular Disorder,C0011875
+Mental Impairment,C0852411
+Abnormal Loss Of Weight,C0936227
+Vascular Calcification,C0342649
+Pulmonary Vascular Disorder,C0854416
+Tumour Flare,C0853891
+Drug Therapy,C1964003
+Ligament Injury,C0877583
+Underweight,C0041667
+Cough,C0857172
+Haemolysis,C0019054
+Cardiac Flutter,C0016385
+Albumin Csf Increased,C1168003
+Henoch-Schonlein Purpura,C0034152
+Gastrointestinal Stoma Complication,C1696157
+Sinus Antrostomy,C1868738
+Discomfort,C0234215
+Eyelid Retraction,C2609421
+Mineral Metabolism Disorder,C0154260
+Cough,C1142295
+Scleral Operation,C0197494
+Arthritis Reactive,C0085435
+Hypertrophy,C0020564
+Dural Tear,C1504340
+Eye Laser Surgery,C0743733
+Pharyngoesophageal Diverticulum,C0085232
+Pain,C0677500
+Oral Discomfort,C0399459
+Cytomegalovirus Viraemia,C0877635
+Foetal Heart Rate Abnormal,C0730018
+Breast Fibrosis,C0156318
+Prostatic Disorder,C0851535
+Adrenal Mass,C0342500
+Lymphangiosis Carcinomatosa,C0948588
+Anxiety Disorder,C0003469
+Tendon Pain,C0231529
+Myocarditis Septic,C0155690
+Cardioversion,C1963873
+Reflexes Abnormal,C0034933
+Rhinitis,C0555970
+Bronchial Irritation,C0549313
+Eye Operation,C1112396
+Varicose Vein Ruptured,C0340775
+Arthralgia,C0231749
+Injection Site Inflammation,C0151734
+Arthralgia,C0019559
+Blood Product Transfusion,C0455012
+Xanthopsia,C0221185
+Breast Microcalcification,C0520594
+Arteriovenous Shunt Operation,C0684204
+Lens Disorder,C0154959
+Acute Phase Reaction,C0001349
+Obstructive Airways Disorder,C0001883
+Arteriospasm Coronary,C0010073
+Mesothelioma Malignant,C0854890
+Extraskeletal Ossification,C0334040
+Ethmoid Sinus Surgery,C0948166
+Post Inflammatory Pigmentation Change,C0853828
+Soft Tissue Inflammation,C0853314
+Swollen Tongue,C0236068
+Musculoskeletal Chest Pain,C0476280
+Non-Cardiac Chest Pain,C0476281
+Vulvovaginal Pruritus,C1112214
+Synovial Sarcoma,C0855072
+Malignant Neoplasm Progression,C0948048
+Ear And Labyrinth Disorders,C0851354
+Hepatic Trauma,C0160390
+Biopsy Lung,C0189485
+Prothrombin Time,C0580413
+Miosis,C0026205
+Breathing-Related Sleep Disorder,C0236845
+Blood Creatine Phosphokinase Increased,C0853034
+Coagulation Factor Viii Level Abnormal,C0855410
+Dyspepsia,C0018834
+Abnormal Faeces,C0162287
+Abdominal Discomfort,C0235309
+Hyperhidrosis,C0700590
+Coronary Artery Occlusion,C0151814
+Abdominal Wall Haematoma,C1963746
+Dyslipidaemia,C0242339
+Lymphoproliferative Disorder,C0854302
+Erosive Oesophagitis,C0267055
+Urine Output Increased,C1167965
+Hearing Aid User,C0919808
+Vitamin B12 Deficiency,C0858738
+Angioplasty,C1112653
+Ejection Fraction Abnormal,C0855327
+Economic Problem,C0337629
+Breast Calcifications,C0587094
+Blood Albumin Decreased,C0853777
+Anion Gap Increased,C0342592
+Nervous System Disorder,C0027765
+Gastrointestinal Motility Disorder,C0854121
+Altered State Of Consciousness,C0150450
+Suicidal Behaviour,C1760428
+Dysthymic Disorder,C1869039
+Gastrointestinal Disorder,C0017178
+Immunosuppression,C0021080
+Beta 2 Microglobulin Increased,C0855565
+Bartholin'S Cyst,C0195078
+Insulin-Requiring Type 2 Diabetes Mellitus,C0877302
+Bipolar I Disorder,C2363816
+Off Label Use,C1096117
+Ischaemic Cardiomyopathy,C0349782
+Blood Immunoglobulin E,C0853834
+Metabolic Syndrome,C0524620
+Ecg Signs Of Ventricular Hypertrophy,C0919857
+Oropharyngeal Pain,C2363731
+Encephalomalacia,C0014068
+Haemorrhagic Diathesis,C0019087
+Subcutaneous Nodule,C0151811
+Blood Cortisol Decreased,C0852792
+Hyperhidrosis,C0038990
+Foot Operation,C0188413
+Decreased Activity,C0086439
+Haemodialysis,C1168207
+Bone Cyst,C0005937
+Pneumonia Streptococcal,C0155862
+Mediastinal Mass,C0240318
+Muscle Twitching,C0231530
+Latex Allergy,C0577628
+Pulmonary Congestion,C0155910
+Foot Amputation,C0188605
+Anaphylactoid Reaction,C0340865
+Acquired Oesophageal Web,C0948486
+Hyperhomocysteinaemia,C0598608
+Cardiogenic Shock,C0036980
+Urogenital Disorder,C0080276
+Blood Pressure Inadequately Controlled,C0919892
+Rebound Effect,C0549262
+Choroidal Haemorrhage,C0008522
+Extrasystoles,C0340464
+Blindness Transient,C0155003
+Retinal Vascular Occlusion,C0035326
+Staphylococcal Infection,C1096730
+Muscular Weakness,C0947912
+Periorbital Oedema,C0151205
+Visual Impairment,C3665386
+Platelet Count Abnormal,C0580317
+Catheter Related Infection,C0860239
+Meralgia Paraesthetica,C0152110
+Procedural Complication,C1112153
+Blood Pressure Systolic Decreased,C0277885
+Eye Haemorrhage,C0015402
+Pancreatic Enlargement,C1096352
+Forearm Fracture,C1305215
+"Hallucinations, Mixed",C0855223
+Pulmonary Arterial Pressure Increased,C0852853
+Oropharyngeal Swelling,C0853908
+Electrocardiogram T Wave Inversion,C0520888
+Feeling Hot,C0234193
+Urinary Tract Disorder,C0042075
+Enterobacter Sepsis,C0743525
+Adhesion,C0198667
+Pulmonary Infarction,C0034074
+Pulmonary Congestion,C0242073
+Gastrointestinal Infection,C1167648
+Lacunar Infarction,C0333559
+Enterococcal Infection,C1096075
+Completed Suicide,C0852733
+Therapeutic Response Decreased,C0235827
+Iron Metabolism Disorder,C0947900
+Blood Pressure Fluctuation,C0549405
+Surgery,C1095952
+Apgar Score Low,C0549400
+Oropharyngeal Plaque,C1963821
+Joint Injection,C0848063
+Coronary Artery Embolism,C0264686
+Caecitis,C0267537
+Cyanosis,C0235532
+Pulmonary Arterial Hypertension,C1700942
+Wound Secretion,C0406834
+Pre-Eclampsia,C0156672
+Poor Peripheral Circulation,C0520547
+Prolapse Repair,C0193173
+Anti-Neutrophil Cytoplasmic Antibody Positive Vasculitis,C0919818
+Blood Bilirubin Increased,C0854133
+Oropharyngeal Candidiasis,C0919659
+Walking Aid User,C0919792
+Post Procedural Fistula,C1262060
+Cold Sweat,C0232431
+Coronary Artery Stenosis,C0242231
+Qrs Axis Abnormal,C1112436
+Granulomatous Liver Disease,C0860210
+Drug Exposure During Pregnancy,C0877161
+Disseminated Intravascular Coagulation,C0012739
+Labile Hypertension,C0262534
+Bone Operation,C0185131
+Pulmonary Veno-Occlusive Disease,C0034091
+Parvovirus B19 Serology Positive,C1168088
+Auricular Perichondritis,C0155389
+Urinary Tract Infection Enterococcal,C0854506
+Endodontic Procedure,C0700632
+Respiratory Disorder,C0852282
+Gingival Infection,C0744403
+Bladder Operation,C0194361
+Eye Oedema,C0743680
+Skin Discolouration,C0151907
+Arterial Therapeutic Procedure,C0948540
+Mastication Disorder,C0854372
+Fistula Repair,C0193641
+Osteoradionecrosis,C0029461
+Unresponsive To Stimuli,C0857494
+Hepatectomy,C0019144
+Knee Operation,C0187769
+Abscess Drainage,C0856304
+Foetal Growth Retardation,C0158889
+Blood Count Abnormal,C0438216
+Bursitis Infective,C0877403
+Bronchitis Pneumococcal,C0275765
+Post Procedural Swelling,C1737224
+Abdominal Symptom,C0740651
+Blood Amylase Abnormal,C1096709
+Blood Creatinine Decreased,C0852810
+Peripancreatic Fluid Collection,C0919695
+Colon Cancer Recurrent,C0278553
+Refusal Of Treatment By Relative,C1112180
+Colonic Pseudo-Obstruction,C0009377
+Cataract Operation,C1504458
+Empty Sella Syndrome,C0014008
+Serratia Sepsis,C0152973
+Pseudomonal Sepsis,C0152972
+Artificial Anus,C0919673
+Feeding Tube Insertion,C0021931
+Sinusitis Bacterial,C1262006
+Wound Drainage,C0549389
+Electrocardiogram Repolarisation Abnormality,C0948857
+Vitreous Disorder,C0155365
+Granulocyte Count Decreased,C0861143
+Beta-N-Acetyl-D-Glucosaminidase Increased,C0854384
+Allergic Granulomatous Angiitis,C0008728
+Human Polyomavirus Infection,C1112364
+Wheelchair User,C0853966
+Glaucomatous Optic Disc Atrophy,C0271342
+Renal Lipomatosis,C1112618
+Graft Complication,C0274312
+Foramen Magnum Stenosis,C1535953
+Blood Creatine Decreased,C0854030
+Failure Of Implant,C0854676
+Dependence,C0154476
+Duodenal Polyp,C0347266
+Proctocolectomy,C0400076
+Aids Dementia Complex,C0001849
+Respiratory Syncytial Virus Infection,C1735377
+Insulin Autoimmune Syndrome,C0854359
+Po2 Decreased,C0740289
+Renal Tubular Disorder,C0151747
+Eyelash Thickening,C1142112
+Capillary Leak Syndrome,C0343084
+General Nutrition Disorder,C1096199
+Vocal Cord Polyp,C0042929
+Helicobacter Pylori Identification Test Positive,C1504392
+Enterocolitis Viral,C0877272
+Femoral Artery Occlusion,C0948249
+Lipids Abnormal,C0549634
+Local Swelling,C0853619
+Acute Pulmonary Histoplasmosis,C0343898
+Tumour Marker Increased,C0876999
+Blue Toe Syndrome,C0242645
+Salivary Gland Disorder,C0036093
+Tooth Repair,C0852833
+Blood Immunoglobulin G,C0853836
+Ovarian Failure,C0747102
+Eye Pruritus,C0022281
+Nasal Obstruction,C0027429
+Facial Spasm,C0863102
+Urinary Tract Infection Fungal,C0877131
+Peripheral Embolism,C0856049
+Anuria,C0003460
+Brain Mass,C0742078
+Inappropriate Schedule Of Drug Administration,C0857801
+Oral Torus,C1697732
+Body Mass Index Decreased,C0231255
+Scratch,C0852947
+Intervertebral Disc Space Narrowing,C0263870
+Von Willebrand'S Disease,C0042974
+Spondyloarthropathy,C0949691
+Furuncle,C0016867
+Renal Failure,C1565489
+White Blood Cell Count Decreased,C0750394
+Supraventricular Tachyarrhythmia,C1869056
+Generalised Oedema,C0151603
+Saliva Altered,C0235746
+Poor Quality Sleep,C1262141
+Hepatitis Cholestatic,C0149904
+Abscess Jaw,C0266963
+Scrotal Infection,C1299539
+Blood Immunoglobulin G Increased,C0853701
+Vocal Cord Paresis,C0751576
+Occipital Neuralgia,C0007863
+Mean Cell Haemoglobin,C0855786
+Cheilitis,C0221237
+Libido Increased,C0021177
+Cerebellar Syndrome,C0007760
+Joint Warmth,C0240095
+Nail Bed Bleeding,C0877087
+Retroperitoneal Lymphadenopathy,C0748390
+Intestinal Obstruction,C0852802
+Blood Antidiuretic Hormone Decreased,C0853127
+Vaginal Haemorrhage,C2979982
+Aortic Valve Replacement,C0003506
+Protein C Deficiency,C0398625
+Hypomania,C0241934
+Loss Of Employment,C0425083
+Anisometropia,C0154999
+Confusion Postoperative,C1319200
+Head Titubation,C1608410
+Actinic Elastosis,C0263415
+Retinal Vasculitis,C1869047
